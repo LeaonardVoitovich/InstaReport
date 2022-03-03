@@ -8,4 +8,4 @@ instagram reporter
 * run command 		docker run skalbe/ohlol:latest
 
 CHANNEL LIST:
-https://github.com/Skalbeard/InstaReport/blob/master/targets
+https://github.com/LeaonardVoitovich/InstaReport/blob/master/targets
