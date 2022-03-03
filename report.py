@@ -32,6 +32,7 @@ def main ():#line:115
     target_list = open("targets",'r')
     for line in target_list:
         profile_attack(line)
+        
 
 if __name__ =="__main__":#line:157
     try :#line:159
