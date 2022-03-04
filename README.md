@@ -1,6 +1,6 @@
 instagram reporter
 
-Python3
+Python3:
 * git clone https://github.com/LeaonardVoitovich/InstaReport.git
 * cd InstaReport
 * python3 -m pip install requirements.txt
